@@ -1,0 +1,6 @@
+spotipy
+pandas
+python-dotenv
+tqdm
+util
+simplejson
